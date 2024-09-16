@@ -1,0 +1,15 @@
+/Users/smruthipobbathi/Desktop/Leetcode/CountPrimes/bin/Debug/net6.0/CountPrimes
+/Users/smruthipobbathi/Desktop/Leetcode/CountPrimes/bin/Debug/net6.0/CountPrimes.deps.json
+/Users/smruthipobbathi/Desktop/Leetcode/CountPrimes/bin/Debug/net6.0/CountPrimes.runtimeconfig.json
+/Users/smruthipobbathi/Desktop/Leetcode/CountPrimes/bin/Debug/net6.0/CountPrimes.dll
+/Users/smruthipobbathi/Desktop/Leetcode/CountPrimes/bin/Debug/net6.0/ref/CountPrimes.dll
+/Users/smruthipobbathi/Desktop/Leetcode/CountPrimes/bin/Debug/net6.0/CountPrimes.pdb
+/Users/smruthipobbathi/Desktop/Leetcode/CountPrimes/obj/Debug/net6.0/CountPrimes.csproj.AssemblyReference.cache
+/Users/smruthipobbathi/Desktop/Leetcode/CountPrimes/obj/Debug/net6.0/CountPrimes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smruthipobbathi/Desktop/Leetcode/CountPrimes/obj/Debug/net6.0/CountPrimes.AssemblyInfoInputs.cache
+/Users/smruthipobbathi/Desktop/Leetcode/CountPrimes/obj/Debug/net6.0/CountPrimes.AssemblyInfo.cs
+/Users/smruthipobbathi/Desktop/Leetcode/CountPrimes/obj/Debug/net6.0/CountPrimes.csproj.CoreCompileInputs.cache
+/Users/smruthipobbathi/Desktop/Leetcode/CountPrimes/obj/Debug/net6.0/CountPrimes.dll
+/Users/smruthipobbathi/Desktop/Leetcode/CountPrimes/obj/Debug/net6.0/ref/CountPrimes.dll
+/Users/smruthipobbathi/Desktop/Leetcode/CountPrimes/obj/Debug/net6.0/CountPrimes.pdb
+/Users/smruthipobbathi/Desktop/Leetcode/CountPrimes/obj/Debug/net6.0/CountPrimes.genruntimeconfig.cache
