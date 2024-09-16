@@ -1,4 +1,7 @@
-﻿using System;
+﻿/* Leetcode (204) - Count Primes:
+    Given an integer n, return the number of prime numbers that are strictly less than n.
+*/
+using System;
 using System.Linq;
 
 public class PrimeCount
